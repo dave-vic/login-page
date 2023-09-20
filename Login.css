@@ -1,0 +1,89 @@
+body{
+    padding:0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+   
+}
+
+#main-img{
+ 
+    width: 900px;
+    height: 900px;
+    border-radius: 0%;
+
+    
+}
+
+#main-img img{
+    max-width:650px;
+    height:900px;
+    
+}
+
+#Form-id
+{
+ 
+ margin-left:580px;
+ margin-top:-700px;
+ text-align: center;
+
+}
+
+#Form-id h4{
+    font-size: 27px;
+    color: #00302E;
+    font-style: normal;
+    font-weight:700;
+    line-height: 33px;
+    word-spacing:5px;
+    
+}
+.input{
+    width: 488px;
+    margin-left:10px;
+    height: 71px;
+    border: 1px solid rgba(251, 221, 187, 0.51);
+    background: rgba(255, 255, 255, 0.83);
+    border-radius: 5px;
+    color: rgba(0, 48, 46, 0.53);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: left;
+    
+}
+
+
+.input[placeholder]{
+    padding-left:30px;
+    opacity: 60%;
+}
+
+.button{
+    width: 520px;
+    margin-left:10px;
+    height: 70px;
+    border: 1px solid rgba(251, 221, 187, 0.51);
+    background:#00302E;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color:#FBDDBB;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    
+    
+    
+    
+}
+
+.button:hover{
+    background: #012423;
+    
+}
+
+
